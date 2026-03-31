@@ -1,4 +1,4 @@
-# Network-Port-Scanner-GUI
+# ui/Network-Port-Scanner-GUI
 
 import threading
 import socket
